@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dometarantula.github.io/sitemap.xml
